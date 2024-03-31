@@ -5,9 +5,10 @@ void ejercicio1();
 void ejercicio2();
 void ejercicio3();
 void ejercicio4();
+void ejercicio5();
 int main()
 {
-   ejercicio4();
+   ejercicio5();
 
     return 0;
 }
@@ -156,14 +157,8 @@ void ejercicio4()
   }
   cout<<"El numero de dia que mas se recaudo fue el "<<indice+1<<" con un total de "<<recMax<<"$"<<endl;
 
-
-
-
-
-
-
-
-
-
+}
+void ejercicio5()
+{
 
 }
